@@ -1,0 +1,38 @@
+<style> tiltle {
+    color : hotpink
+}
+
+h1 {
+    color: purple 
+    } 
+    p{
+        color:rgb(19, 118, 129)
+    }
+p1{
+    color:rgb(0, 137, 139)
+}
+p2{
+    color:chocolate
+}
+ h2{ color:darkcyan
+    
+ }
+ h3{
+    color:rgba(255, 217, 0, 0.9)
+ }
+ h4{
+    color:green
+ }
+ h5{
+    color:rgb(131, 10, 10)
+ }
+th{
+    color:dodgerblue
+}
+td {
+    color:rgb(255, 0, 225)
+}
+li{
+    color:dodgerblue
+}
+</style>
